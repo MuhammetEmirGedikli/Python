@@ -1,6 +1,0 @@
-emir asd,80,85,55
-ilayda dasd,82,83,43
-emre dddd,100,100,100
-wddtfadda,80,85,55
-saieas leleele,82,83,43
-kesekse helllooo,100,100,100
